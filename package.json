@@ -1,0 +1,15 @@
+{
+  "name": "get-global-node_modules-path",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "debug": "^4.1.1"
+  }
+}
